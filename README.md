@@ -1,2 +1,2 @@
 # test-mirror-src
-v1
+v2
